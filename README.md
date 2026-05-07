@@ -1,13 +1,12 @@
-# Identitas Mahasiswa
-
-| Keterangan | Data |
-| --- | --- |
-| Nama | Zahwa Nafiza Azzahra |
-| NIM | H1D024015 |
-| Shift KRS | H |
-| Shift Sekarang | F |
-
 # Praktikum Kecerdasan Buatan Pertemuan 6
+
+Nama: Zahwa Nafiza Azzahra
+
+NIM: H1D024015
+
+Shift KRS: H
+
+Shift Sekarang: F
 
 ## Jaringan Syaraf Tiruan: Perceptron dan Backpropagation
 
